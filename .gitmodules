@@ -1,0 +1,3 @@
+[submodule "kr"]
+	path = kr
+	url = git@github.com:petrsnm/kr.git
